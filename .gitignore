@@ -1,0 +1,14 @@
+# Ignore the entire Dataset folder
+Dataset/
+
+# Ignore large files (if you move them elsewhere accidentally)
+*.csv
+*.tsv
+*.zip
+*.gz
+
+# Ignore Python cache and temp files
+__pycache__/
+*.pyc
+*.log
+*.tmp
